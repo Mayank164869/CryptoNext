@@ -17,5 +17,5 @@ Bing News Search - https://rapidapi.com/microsoft-azure-..
 
 ![image](https://user-images.githubusercontent.com/65328387/187279073-fb96c2ef-c834-47b3-85c2-55ce5b3f1ae4.png)
 
-Website Link : https://main.d22l11e9iy2ep4.amplifyapp.com/
+Website Link : https://main.d26vu2hx8rn2e7.amplifyapp.com/
 
